@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(203, 203, 203);
+}
+header{
+    background-color: rgb(255, 168, 168);
+}
+.logo{
+    background-color: rgb(202, 142, 207);
+}
+nav{
+    background-color: rgb(230, 190, 249);
+}
+main{
+   background-color: rgb(167, 229, 233);
+}
+section{
+    background-color: rgb(196, 183, 245);
+}
+footer{
+    background-color: rgb(235, 197, 255);
+}
+main{
+    background-color: rgb(216, 164, 244);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background-color: rgb(235, 203, 253);
+padding: 3%;
+}
+footer{
+    background-color: rgb(228, 177, 242);
+    padding: 3%;
+}
