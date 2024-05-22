@@ -85,6 +85,7 @@ footer{
 .rodape{
     padding: 3%;
 }
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -92,11 +93,12 @@ table {
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #000000;
     text-align: left;
     padding: 8px;
   }
-
+  
+  
     .imgem {
       
            /* Estilos opcionais para a imagem */
