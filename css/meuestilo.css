@@ -17,6 +17,7 @@ header{
 
 #menu ul li{display: inline;}
 
+
 nav ul{
   list-style: none;
   margin: 0;
@@ -96,27 +97,7 @@ footer{
     padding: 3%;
 }
 
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  td{
-    border: 1px solid #000000;
-    text-align: left;
-    padding: 8px;
-    background-color: rgb(142, 159, 214);
-  }
-  th{
-    border: 1px solid #000000;
-    text-align: left;
-    padding: 8px;
-    background-color: #a4baf8;
-  }
-  
-  
-    .imgem {
+.imgem {
       
            /* Estilos opcionais para a imagem */
            max-width: 100%; /* Garante que a imagem não ultrapasse a largura da tela */
