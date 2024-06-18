@@ -201,3 +201,7 @@ footer{
   .img{
 align-items: center;
   }
+
+  .div,h4{
+  text-decoration-color: #ff1717;
+  }
