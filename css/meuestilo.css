@@ -1,6 +1,6 @@
 body{
     /* background-color: #050404; */
-    background-color: #99b3c2;
+    background-color: #2b337c;
     background-image: url('../img/fundo.png')  ; 
     padding: 1%;
     margin-left: auto;
@@ -30,7 +30,7 @@ nav ul li {
 }
 
 nav ul li a:hover{
-  background-color: #a0aeee;
+  background-color: #9aa5d4;
   border-radius: 5px;
 }
 
@@ -85,7 +85,7 @@ footer{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: rgb(185, 199, 226);
+  background-color: rgb(98, 121, 168);
   padding: 10px 20px;
   position: fixed;
   top: 0;
@@ -126,7 +126,7 @@ footer{
   figure img{
     display: block;
     margin: 0 auto;
-    box-shadow:0px 4px 8px rgb(39, 27, 104);
+    box-shadow:0px 4px 8px rgb(15, 2, 82);
     max-width: 100%;
     height: auto;
   }
