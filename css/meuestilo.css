@@ -205,3 +205,14 @@ align-items: center;
   .div,h4{
   text-decoration-color: #ff1717;
   }
+.titulos{
+color:rgb(212, 212, 255)
+}
+
+.figcaption, h1, h2, h3, h4, h5, p{
+  color:rgb(209, 174, 230)
+}
+
+figcaption, h1, h2, h3, h4, h5, p{
+  text-shadow: #ff1717;
+}
